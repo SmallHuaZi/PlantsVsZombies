@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2342456245
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: unity.u3d
+      Dependencies: {}
+    Info_1:
+      Name: runtim_fruit.u3d
+      Dependencies: {}
+    Info_2:
+      Name: uiobject.u3d
+      Dependencies: {}
+    Info_3:
+      Name: audio.u3d
+      Dependencies: {}

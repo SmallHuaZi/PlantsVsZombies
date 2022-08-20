@@ -1,0 +1,35 @@
+{
+  "Player": {
+    "Name": "温暖的桃子",
+    "CompleteNumber": 0,
+    "IconIndex": 0,
+    "Econmics": 100,
+    "Biscuits": 100,
+    "Props": {
+      "Fruit": [
+        "",
+        ""
+      ],
+      "Prop": [
+        "",
+        ""
+      ],
+      "Collection": [
+        "",
+        ""
+      ]
+    }
+  },
+  "Audio": {
+    "Clip": "normal",
+    "Sound": 0.5
+  },
+  "Scene": {
+    "Default": "Start",
+    "AllScene": [
+      "Start",
+      "Main",
+      "Running"
+    ]
+  }
+}

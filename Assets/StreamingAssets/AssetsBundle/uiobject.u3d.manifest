@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 3793619336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80075e78be9134d7be8feed7282edc54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2663a93516050bca995c91ad970f02fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d0bea10900714947a42d7fc71f704ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532bfea31c4444b4e925532b472ca800, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edacbcac3ad4f8949897c9ab0952fbd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2077475474328244f85b0d191c4e91fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Prefabs/UI/SecondaryMenu/Log_panel.prefab
+- Assets/Prefabs/UI/SecondaryMenu/planting_panel.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Loading.prefab
+- Assets/Prefabs/UI/SecondaryMenu/ChoosingFruit.prefab
+- Assets/Prefabs/UI/SecondaryMenu/HeadIcon.prefab
+- Assets/Prefabs/UI/UIPlantGrid/apple.prefab
+- Assets/Prefabs/UI/UIPlantGrid/agaric.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Map.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Playing_MainPanel.prefab
+- Assets/Prefabs/UI/UIPlantGrid/chufa.prefab
+- Assets/Prefabs/UI/SecondaryMenu/HandBook.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Store.prefab
+- Assets/Prefabs/UI/UIPlantGrid/snakeFruit.prefab
+- Assets/Prefabs/UI/UIPlantGrid/stawberry.prefab
+- Assets/Prefabs/UI/SecondaryMenu/ChoosedFruit.prefab
+- Assets/Prefabs/UI/UIPlantGrid/watermelon.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Playing_Setting.prefab
+- Assets/Prefabs/UI/SecondaryMenu/BackBag.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Main_panel.prefab
+- Assets/Prefabs/UI/SecondaryMenu/ReadFile.prefab
+- Assets/Prefabs/UI/UIPlantGrid/lemon.prefab
+- Assets/Prefabs/UI/SecondaryMenu/SignIn.prefab
+- Assets/Prefabs/UI/SecondaryMenu/HintInStore.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Setting.prefab
+- Assets/Prefabs/UI/UIPlantGrid/noniFruit.prefab
+- Assets/Prefabs/UI/UIPlantGrid/coconut.prefab
+- Assets/Prefabs/UI/SecondaryMenu/EveryDay.prefab
+- Assets/Prefabs/UI/SecondaryMenu/Support.prefab
+- Assets/Prefabs/UI/UIPlantGrid/kiwano.prefab
+- Assets/Prefabs/UI/UIPlantGrid/peach.prefab
+Dependencies: []

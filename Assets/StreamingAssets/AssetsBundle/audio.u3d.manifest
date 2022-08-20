@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3731452568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f9c744abb46bb310d343cf3d917320f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/MP3/Hard Rock.mp3
+- Assets/Audio/MP3/Heart of Warrior.mp3
+- Assets/Audio/MP3/Time For Action.mp3
+- Assets/Audio/MP3/Be Faster.mp3
+- Assets/Audio/MP3/Fatality Racer.mp3
+- Assets/Audio/MP3/normal.mp3
+- Assets/Audio/MP3/Rage Machine.mp3
+- Assets/Audio/MP3/Unbreakable.mp3
+- Assets/Audio/MP3/No Way Back.mp3
+- Assets/Audio/MP3/combat.mp3
+- Assets/Audio/MP3/Heart of Warrior (cutted version).mp3
+- Assets/Audio/MP3/Let's Rock.mp3
+Dependencies: []

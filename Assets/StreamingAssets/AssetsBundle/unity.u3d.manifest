@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 275413189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18f0a66ef032be78bd87142f0eb86b9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 854583cb432ced1effe69825d1f6e5eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 516b652ffd1081945995a411bbf2f908, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b544a841011a1a140a05b7ea19059756, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9d871237c9a05b4daa5a0fc17e149e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f9f736b332c60147847695ee6895e2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8939743409903f24a9d578d74dc60f78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a48145f2d991e0b428617fe555e9d804, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3486508eae2b0347b5ad5ea152f1620, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f569cb67e9be44f46ac3fa50e134e0ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdc32e45f6c7ef5478263f54eb025e17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecd4ccc774c43c8499308a426114902f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5580b0d443769c4684f8f78eac8f0eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e896a528703bfe4ab9c1a22e7a68755, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4adb455660003234e932fa485825572a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6eee6c201bfa0374585d31b7d70f1fa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87c152c07f16b0949b62897639dfc045, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 457a667bb79d32c47924fb9248083a89, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Fruits/argaic.prefab
+- Assets/Prefabs/Animals/_Bat.prefab
+- Assets/Prefabs/Animals/_Monkey.prefab
+- Assets/Prefabs/Fruits/two_Peach.prefab
+- Assets/Prefabs/Fruits/snakeFruit.prefab
+- Assets/Prefabs/Fruits/chufa.prefab
+- Assets/Prefabs/Fruits/cocount.prefab
+- Assets/Prefabs/Bullets/twoPeach_bullet.prefab
+- Assets/Prefabs/Bullets/peach_bullet.prefab
+- Assets/Prefabs/Fruits/_apple.prefab
+- Assets/Prefabs/Bullets/kiwiFruit_bullet.prefab
+- Assets/Prefabs/Fruits/_peach.prefab
+- Assets/Prefabs/Fruits/sweetPotato.prefab
+- Assets/Prefabs/Animals/_Bear.prefab
+- Assets/Prefabs/Fruits/noniFruit.prefab
+- "Assets/Sprites/Animals/Bat_Ani/\u94C1\u6876\u50F5\u5C38 \u8759\u8760.psd"
+- Assets/Prefabs/Fruits/waterMelon.prefab
+- Assets/Prefabs/Animals/_Squirrel.prefab
+- Assets/Prefabs/Bullets/bullet.prefab
+- Assets/Prefabs/Fruits/_LemoShooter.prefab
+- Assets/Prefabs/Fruits/_kiwano.prefab
+- Assets/Prefabs/Fruits/_kiwiFruit.prefab
+- Assets/Prefabs/Animals/_Orangutan.prefab
+- Assets/Prefabs/Running/Props/knife.prefab
+- Assets/Prefabs/Animals/_Fox.prefab
+- Assets/Prefabs/Bullets/_lemon_bullet.prefab
+- Assets/Prefabs/Fruits/stawberry.prefab
+- Assets/Prefabs/Animals/_Rabbit.prefab
+- Assets/Prefabs/Bullets/noni_bullet.prefab
+- Assets/Prefabs/Fruits/_Lemon.prefab
+- Assets/Prefabs/Animals/_Elephant.prefab
+Dependencies: []
